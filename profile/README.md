@@ -28,4 +28,4 @@ By utilizing clustering techniques and optimization algorithms, our application 
 **Our Repositories**
 
 - [Backend/API repository](https://github.com/Day-Trips-Optimization-C242-DT01/daytrip-bizzagi-API)
-- 
+- [Android/Api_repository](https://github.com/Day-Trips-Optimization-C242-DT01/daytrip-bizzagi-android.git)
