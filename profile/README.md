@@ -29,6 +29,7 @@ By utilizing clustering techniques and optimization algorithms, our application 
 
 - [Backend/API repository](https://github.com/Day-Trips-Optimization-C242-DT01/daytrip-bizzagi-API)
 - [Android Application repository](https://github.com/Day-Trips-Optimization-C242-DT01/daytrip-bizzagi-android.git)
+- [ML API repository](https://github.com/Day-Trips-Optimization-C242-DT01/daytrip-bizzagi-ML-API)
 
 <br>
 
